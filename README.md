@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<a href="https://stavrospap2004.github.io/github.io/intex.html">intex.html</a>
+<a href="">intex.html</a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
